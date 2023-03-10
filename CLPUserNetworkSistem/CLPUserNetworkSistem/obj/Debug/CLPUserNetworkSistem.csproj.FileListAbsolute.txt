@@ -1,0 +1,12 @@
+C:\Users\guilh\OneDrive\Documentos\CLPUserNetworkSistem\CLPUserNetworkSistem\CLPUserNetworkSistem\bin\Debug\CLPUserNetworkSistem.exe.config
+C:\Users\guilh\OneDrive\Documentos\CLPUserNetworkSistem\CLPUserNetworkSistem\CLPUserNetworkSistem\bin\Debug\CLPUserNetworkSistem.exe
+C:\Users\guilh\OneDrive\Documentos\CLPUserNetworkSistem\CLPUserNetworkSistem\CLPUserNetworkSistem\bin\Debug\CLPUserNetworkSistem.pdb
+C:\Users\guilh\OneDrive\Documentos\CLPUserNetworkSistem\CLPUserNetworkSistem\CLPUserNetworkSistem\obj\Debug\CLPUserNetworkSistem.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\CLPUserNetworkSistem\CLPUserNetworkSistem\CLPUserNetworkSistem\obj\Debug\CLPUserNetworkSistem.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\OneDrive\Documentos\CLPUserNetworkSistem\CLPUserNetworkSistem\CLPUserNetworkSistem\obj\Debug\CLPUserNetworkSistem.Properties.Resources.resources
+C:\Users\guilh\OneDrive\Documentos\CLPUserNetworkSistem\CLPUserNetworkSistem\CLPUserNetworkSistem\obj\Debug\CLPUserNetworkSistem.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive\Documentos\CLPUserNetworkSistem\CLPUserNetworkSistem\CLPUserNetworkSistem\obj\Debug\CLPUserNetworkSistem.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\CLPUserNetworkSistem\CLPUserNetworkSistem\CLPUserNetworkSistem\obj\Debug\CLPUserNetworkSistem.exe
+C:\Users\guilh\OneDrive\Documentos\CLPUserNetworkSistem\CLPUserNetworkSistem\CLPUserNetworkSistem\obj\Debug\CLPUserNetworkSistem.pdb
+C:\Users\guilh\OneDrive\Documentos\CLPUserNetworkSistem\CLPUserNetworkSistem\CLPUserNetworkSistem\obj\Debug\CLPUserNetworkSistem.Form2.resources
+C:\Users\guilh\OneDrive\Documentos\CLPUserNetworkSistem\CLPUserNetworkSistem\CLPUserNetworkSistem\obj\Debug\CLPUserNetworkSistem.Form1.resources

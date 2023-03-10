@@ -1,0 +1,3 @@
+"Connection_db": {
+  "ConnectionString": "User ID=;Password=;Host=;Port=;Database=;Pooling=true;Trust Server Certificate=true"
+}
